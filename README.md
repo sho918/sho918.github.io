@@ -1,1 +1,0 @@
-# sho918.github.io
