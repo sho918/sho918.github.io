@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arsho.dev/</loc>
+    <loc>https://blog.arsho.dev/</loc>
     <lastmod>2021-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arsho.dev/posts/2021/hello-world/</loc>
+    <loc>https://blog.arsho.dev/posts/2021/hello-world/</loc>
     <lastmod>2021-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arsho.dev/posts/</loc>
+    <loc>https://blog.arsho.dev/posts/</loc>
     <lastmod>2021-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arsho.dev/archives/</loc>
+    <loc>https://blog.arsho.dev/archives/</loc>
   </url><url>
-    <loc>https://arsho.dev/categories/</loc>
+    <loc>https://blog.arsho.dev/categories/</loc>
   </url><url>
-    <loc>https://arsho.dev/search/</loc>
+    <loc>https://blog.arsho.dev/search/</loc>
   </url><url>
-    <loc>https://arsho.dev/tags/</loc>
+    <loc>https://blog.arsho.dev/tags/</loc>
   </url>
 </urlset>
